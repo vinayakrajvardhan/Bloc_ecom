@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flu![1 Bloc_Ecom](https://user-images.githubusercontent.com/32243863/183964565-62b09f54-a103-4a6e-ac15-f033ebc32db0.PNG)
+![2 Bloc Ecom](https://user-images.githubusercontent.com/32243863/183964575-4e50b0b9-759c-45b7-8f5e-77f9d4c4c5ed.PNG)
+![3 Bloc Ecom](https://user-images.githubusercontent.com/32243863/183964582-390a4453-6940-4f49-90e7-feb0c1d23b01.PNG)
+tter application.
 
 A few resources to get you started if this is your first Flutter project:
 
